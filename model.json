@@ -8,5 +8,20 @@
       "id": "5f06c9891031df0b7fb3c08d2ec17d2c0f93b955"
     }
   ],
-  "concept": []
+  "concept": [
+    {
+      "name": "New Item",
+      "mro": "M",
+      "description": "",
+      "valueSets": "",
+      "implementationGuidance": "",
+      "informationType": "Record",
+      "type": "item",
+      "minimumMultiplicity": "0",
+      "maximumMultiplicity": "1",
+      "concept": [],
+      "isComponent": false,
+      "relationshipType": "neither"
+    }
+  ]
 }
