@@ -1,1 +1,12 @@
-{"version": "1-build.0.0", "name": "JC test", "description": "<p>JC test</p>", "component_sets": [{"name": "PRSB-Standards/WRIST-core-information-standard", "id": "5f06c9891031df0b7fb3c08d2ec17d2c0f93b955"}], "concept": [{"name": "Item", "mro": "M", "description": "", "valueSets": "", "implementationGuidance": "", "informationType": "Record", "type": "item", "minimumMultiplicity": "0", "maximumMultiplicity": "1"}]}
+{
+  "version": "1-build.0.0",
+  "name": "JC test",
+  "description": "<p>JC test</p>",
+  "component_sets": [
+    {
+      "name": "PRSB-Standards/WRIST-core-information-standard",
+      "id": "5f06c9891031df0b7fb3c08d2ec17d2c0f93b955"
+    }
+  ],
+  "concept": []
+}
